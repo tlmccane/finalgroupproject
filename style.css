@@ -1,0 +1,68 @@
+/*   Defaults */
+/* Declare default background color and font-sizefor the page */
+html, body {
+  background-color: #FFFED4;
+  font-family: sans-serif;
+  font-size: 100%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #9EA09E;
+}
+
+li {
+
+}
+
+li a {
+    display: block;
+    color: #6CFF57;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: left;
+}
+footer{
+    border-style: solid;
+    background-color:#9EA09E;
+    border-color: #9EA09E
+}
+
+li a:hover {
+    background-color: ;
+}
+  /*   CSS Text */
+  h1, h2, h3 {
+    color: #3C60AE;
+    font-family: serif;
+    text-align: center;
+    }
+    p  {font-size: 95%;
+      }
+        a:link {
+        color: blue;
+        background-color: ;
+        padding: 14px 25px;
+       text-align: center;
+       text-decoration: none;
+       display: inline-block;
+
+        }
+        a:visited {
+          color: #A5FF8A;
+          background-color: ;
+          text-decoration: none;
+          }
+          a:hover {
+            color: 4AB5FF;
+            background-color: black;
+            text-decoration: underline;
+            }
+            a:active {
+              color: blue;
+              background-color: black;
+              text-decoration: line-through;
+              }/*
