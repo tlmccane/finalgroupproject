@@ -23,7 +23,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    float: left;
+
 }
 footer{
     border-style: solid;
@@ -34,13 +34,19 @@ footer{
 li a:hover {
     background-color: ;
 }
-  /*   CSS Text */
-  h1, h2, h3 {
+img {
+    display: block;
+    margin: auto;
+    width: ;
+    float: center;
+}
+  h1, h2{
     color: #3C60AE;
     font-family: serif;
     text-align: center;
     }
-    p  {font-size: 95%;
+    p  {
+      font-size: 95%;
       }
         a:link {
         color: blue;
@@ -58,11 +64,11 @@ li a:hover {
           }
           a:hover {
             color: 4AB5FF;
-            background-color: black;
+            background-color: ;
             text-decoration: underline;
             }
             a:active {
               color: blue;
-              background-color: black;
+              background-color: ;
               text-decoration: line-through;
               }/*
